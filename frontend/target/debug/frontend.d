@@ -1,1 +1,0 @@
-/Users/nandagopalmenon/Projects/rust/chip8-emu/frontend/target/debug/frontend: /Users/nandagopalmenon/Projects/rust/chip8-emu/chip8_core/src/lib.rs /Users/nandagopalmenon/Projects/rust/chip8-emu/frontend/src/main.rs
